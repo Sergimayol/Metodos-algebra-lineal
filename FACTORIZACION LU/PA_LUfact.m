@@ -1,3 +1,4 @@
+#FACTORIZACIÓN PA = LU
 function [L,U,p]=PA_LUfact(A) 
 %LUFACT: Factor the maxtrix A into LU up to a permutation.
 %
