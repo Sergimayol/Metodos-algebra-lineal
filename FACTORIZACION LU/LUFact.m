@@ -1,3 +1,4 @@
+#FACTORIZACIÓN A = LU A PARTIR DE UNA MATRIZ
 function [L,U]=LUFact(A) 
 % factorizacion LU sin pivotaje de una matriz A
  n=length(A(:,1));
