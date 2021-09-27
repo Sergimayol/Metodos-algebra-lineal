@@ -1,1 +1,1 @@
-# Metodos algebra lineal
+# Métodos álgebra lineal
